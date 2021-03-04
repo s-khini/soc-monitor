@@ -1,0 +1,4 @@
+An initial commit of the polygons of the pilot farms. Default margins applied for the borders, however some fields contain obstacles (shadows / farm material).
+Apply these polygons for initial prototype/iteration and analyse results (e.g. effects of polygon feature / structures).
+Polygons created in QGIS from the RVO information of the Pilot Plots from Teun (ESTI Impact), attribute table may be expanded, just after finishing I realise that the acrage could be useful, especially for reaching a lower uncertainty and a higher precision given the known SOC/ha from these plots.
+Lets tweak when we have something! Current polygons are uploaded via WeTransfer (link: https://we.tl/t-UWdPA51fnZ ). Could not add files to this repository yet.
